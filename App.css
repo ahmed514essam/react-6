@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+box-sizing: border-box;
+}
+.App {
+ margin-top: 1.4em;
+ margin-left: 3em;
+}
+button {
+  padding: 10px 15px;
+  font-size: .9em;
+  border: 0;
+  background-color: blueviolet;
+  color: white;
+  margin-left: 1em;
+  margin-top: 1em;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.one {
+  border: 1.5px solid ;
+  width: 40%;
+  padding:.8em .5em ;
+  line-height: 30px;
+  margin-top: 10px;
+}
+.two {
+  border: 1.5px solid ;
+  width: 40%;
+  padding:.8em .5em ;
+  line-height: 30px;
+}
+.three {
+  border: 1.5px solid ;
+  width: 40%;
+  padding:.8em .5em ;
+  line-height: 30px;
+}
+span {
+  font-weight: bold;
+  color: rgb(90, 90, 90);
+}
